@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Yujeong's%20Github&fontSize=50)
 
 <h3 align="center"><b>📚 Skills 📚</b></h3>
 <br>
