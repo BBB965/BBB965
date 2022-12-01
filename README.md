@@ -1,4 +1,4 @@
-### Hi 👋 I'm Byeon yu-jeong
+# Hi 👋 I'm Byeon yu-jeong
 
 - 🌱 I’m currently learning python, c++
 - 👯 I’m looking to collaborate on SSAFY
