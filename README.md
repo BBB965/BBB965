@@ -1,21 +1,26 @@
-### Hi 👋 I'm Byeon yu-jeong
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujeong's%20Github&fontSize=50)
 
-- 🌱 I’m currently learning python, c++
-- 👯 I’m looking to collaborate on SSAFY
+<h3 align="center"><b>📚 Skills 📚</b></h3>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/>
+</p>
 
-
-### MY SKILLS
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++]<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-### About Me
-![yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpdpgh555)](https://solved.ac/dpdpgh555/)
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+</p>
+  
+<h3 align="center"><b>📚 About Me 📚</b></h3>
+<br>
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpdpgh555)](https://solved.ac/dpdpgh555)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPIDEY965&layout=compact)](https://github.com/SPIDEY965/github-readme-stats)
+</div>
 
 <!--
 **SPIDEY965/SPIDEY965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
