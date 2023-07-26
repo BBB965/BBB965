@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white"/>
 </p>
 
 <p align="center">
