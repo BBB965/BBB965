@@ -20,6 +20,7 @@
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpdpgh555)](https://solved.ac/dpdpgh555)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPIDEY965&layout=compact)](https://github.com/SPIDEY965/github-readme-stats)
 </div>
 
