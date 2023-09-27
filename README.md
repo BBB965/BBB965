@@ -18,8 +18,9 @@
 <h3 align="center"><b>📚 About Me 📚</b></h3>
 <br>
 <div align="center">
-  
+<! --  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpdpgh555)](https://solved.ac/dpdpgh555)
+  -->
 <br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
